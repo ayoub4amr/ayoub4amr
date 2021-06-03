@@ -14,7 +14,9 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub4amr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub4amr&show_icons=true&theme=radical&langs_count=10&layout=compact)
+
+
 
 <!---
 ayoub4amr/ayoub4amr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
